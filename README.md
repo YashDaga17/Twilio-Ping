@@ -68,6 +68,13 @@ https://nosidebar.com/stressed/
 ![WhatsApp Image 2021-10-30 at 12 51 16 PM (1)](https://user-images.githubusercontent.com/72146802/139541866-9d6f460b-e506-446b-a2ba-c45b349681ac.jpeg)
 ## In a voice command.
 
+# Live Video 
+
+
+https://user-images.githubusercontent.com/72146802/139542066-e0976284-f3c5-427b-aabe-adf7d749cd94.mp4
+
+
+
 # Thank You
 
 
