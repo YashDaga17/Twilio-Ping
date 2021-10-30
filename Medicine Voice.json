@@ -1,0 +1,24 @@
+{
+    "account_sid": "ACf636b50dc247ec732e7a4dd17b6bb404 ",
+    "api_version": "2010-04-01",
+    "body": "What task would you like to do?",
+    "date_created": "Thu, 30 Jul 2015 20:12:31 +0000",
+    "date_sent": "Thu, 30 Jul 2015 20:12:33 +0000",
+    "date_updated": "Thu, 30 Jul 2015 20:12:33 +0000",
+    "direction": "outbound-api",
+    "error_code": null,
+    "error_message": null,
+    "from": "+13806664614",
+    "messaging_service_sid": "MGXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+    "num_media": "0",
+    "num_segments": "1",
+    "price": null,
+    "price_unit": null,
+    "sid": "SMXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+    "status": "sent",
+    "subresource_uris": {
+      "media": "/2010-04-01/Accounts/ACf636b50dc247ec732e7a4dd17b6bb404/Messages/SMXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX/Media.json"
+    },
+    "to": "+15558675310",
+    "uri": "/2010-04-01/Accounts/ACf636b50dc247ec732e7a4dd17b6bb404/Messages/SMXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX.json"
+  }
